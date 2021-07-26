@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    background-color: #71D1A2;
+}
+.main-container{
+    width:50em;
+    height: 28em;
+    background-color: #418564;
+    background-position:center;
+    padding: 0em; 
+    margin: 100px 17em;
+    border-radius: 20px;
+}
+h1{
+    font-family: 'C/S';
+    padding-top: 1em;
+    padding-left: 1em; 
+    font-size: 60px;
+}
+
+span{
+    font-family: 'Bell MT';
+    padding-left: 2em;
+}
+.segundo{
+    width:50em;
+    height: 3px;
+    background-color: #7B7DD1;
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
+.tercero{
+   display: flex; 
+}
+
+img {
+    width: 6em;
+    height: 6em;
+    object-fit: fill;
+    padding-bottom: 1px;
+    padding-left: 50px;
+}
+
